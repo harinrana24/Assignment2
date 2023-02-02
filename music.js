@@ -1,4 +1,4 @@
 function playSound(){
 
-new Audio("../Believer.mp3").play();
+new Audio("Believer.mp3").play();
 }
